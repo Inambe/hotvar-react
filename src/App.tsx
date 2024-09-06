@@ -9,7 +9,7 @@ function App() {
     vars: {
       "inambe:seats-left": {
         type: "number",
-        placeholder: 0,
+        value: 0,
       },
     },
   });
